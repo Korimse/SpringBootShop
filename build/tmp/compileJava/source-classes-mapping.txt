@@ -1,0 +1,6 @@
+jpabook/jpashop/JpashopApplication.java
+ jpabook.jpashop.JpashopApplication
+jpabook/jpashop/MemberRepository.java
+ jpabook.jpashop.MemberRepository
+jpabook/jpashop/Member.java
+ jpabook.jpashop.Member
